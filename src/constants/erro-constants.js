@@ -1,0 +1,1 @@
+export const ERRO_PADRAO = 'Campo preenchido incorretamente.';

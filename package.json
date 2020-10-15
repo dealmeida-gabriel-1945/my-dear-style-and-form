@@ -1,11 +1,25 @@
 {
-  "main": "node_modules/expo/AppEntry.js",
+  "name": "my-dear-style-and-form",
+  "version": "1.0",
+  "description": "Meus components REACT.",
+  "main": "src/index.js",
+  "author": "Gabriel Guimarães de Almeida",
+  "keywords": [
+    "Componentes",
+    "Table",
+    "Input Text",
+    "Button"
+  ],
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web",
     "eject": "expo eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dealmeida-gabriel-1945/my-dear-style-and-form"
   },
   "dependencies": {
     "@react-native-community/picker": "^1.8.0",
